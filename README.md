@@ -1,1 +1,1 @@
-# Nike-shoes
+This is Nike project
